@@ -59,7 +59,7 @@
 }
 
 .sidebar.collapsed h3 {
-  transform: rotate(-90deg) translate(-45px, -4px); /* translate(-45px, 68px); */
+  transform: rotate(-90deg) translate(-45px, -4px);
 }
 
 .sidebar .hamburger {
